@@ -1,0 +1,29 @@
+# Naufal Abdala Syawali
+
+> Lulusan S1 Rekayasa Perangkat Lunak Universitas Pendidikan Indonesia (IPK 3,73), Bandung. Terbuka untuk peran Quality Assurance, Data Analyst, Data Annotator, Frontend Developer, dan Mobile Developer (Flutter).
+
+- [Email: naufalabdalasyawali354@gmail.com](mailto:naufalabdalasyawali354@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/naufalabdalasyawali/)
+- [Instagram](https://www.instagram.com/fale.e354/)
+
+## Karya
+
+### Duitin
+Aplikasi Android (Flutter) untuk mencatat keuangan pribadi tanpa internet dan tanpa akun.
+- Regresi manual di HP Tecno LJ7 (Android 16) dari instalasi baru: 16 area, 13 lulus di putaran pertama; 3 yang gagal (Laporan, Tema, Recents) diperbaiki lalu lulus uji ulang.
+- 14 temuan tercatat di defect log (1 Tinggi, 3 Sedang, 9 Rendah, 1 Observasi); 9 diperbaiki, 4 terbuka, 1 observasi. Temuan Tinggi: saldo terlihat di layar Recents walau kunci aktif.
+- 75 unit test lulus di 9 berkas, 22 di antaranya menguji kontras warna WCAG AA.
+
+### Dashboard Penjualan KarirNex Perfume
+Dashboard Google Data Studio 3 halaman dari dataset simulasi 10.000 transaksi parfum (2025).
+- [Lihat dashboard](https://datastudio.google.com/reporting/8466356f-1b61-4964-9249-3ec2042da52a)
+- Net revenue Rp8,32 M; 4.870 pelanggan unik. Desember tertinggi (+35% dari November); toko fisik menyumbang 34% revenue dengan cancel rate terendah (1,7%); promo gajian menurunkan AOV 16%.
+
+### Deteksi Jamur pada Roti (skripsi)
+Analisis performa YOLOv11 dengan hyperparameter tuning. Dataset dikumpulkan sendiri + publik, dianotasi ulang di Roboflow.
+- [Dataset Roboflow](https://universe.roboflow.com/dataset-makanan-protein/mold_bread)
+- Hasil terbaik: mAP 85,71%, precision 88,37%, recall 77,99%.
+
+## Pengalaman
+- Frontend Developer Intern, PT. ICTindo Mitra Solusi (Jun–Okt 2025): aplikasi Klikpeta Sales, Angular 12, TypeScript.
+- Frontend Developer Intern, Gamelab Indonesia (Feb–Mei 2025): CuacaLab, Tagar.id, company profile UMKM Vyl Bouquet.

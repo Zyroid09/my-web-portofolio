@@ -1,0 +1,6 @@
+# Semua mesin pencari dan crawler AI boleh membaca situs ini
+User-agent: *
+Allow: /
+
+# Setelah domain ada, tambahkan baris berikut (ganti domainnya):
+# Sitemap: https://DOMAIN-KAMU/sitemap.xml
